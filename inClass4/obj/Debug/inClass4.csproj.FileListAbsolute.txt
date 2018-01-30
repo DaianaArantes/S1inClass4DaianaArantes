@@ -1,0 +1,7 @@
+C:\Users\Daiana\OneDrive\College\Programming Concepts I\inClass4\inClass4\bin\Debug\inClass4.exe.config
+C:\Users\Daiana\OneDrive\College\Programming Concepts I\inClass4\inClass4\bin\Debug\inClass4.exe
+C:\Users\Daiana\OneDrive\College\Programming Concepts I\inClass4\inClass4\bin\Debug\inClass4.pdb
+C:\Users\Daiana\OneDrive\College\Programming Concepts I\inClass4\inClass4\obj\Debug\inClass4.csprojResolveAssemblyReference.cache
+C:\Users\Daiana\OneDrive\College\Programming Concepts I\inClass4\inClass4\obj\Debug\inClass4.csproj.CoreCompileInputs.cache
+C:\Users\Daiana\OneDrive\College\Programming Concepts I\inClass4\inClass4\obj\Debug\inClass4.exe
+C:\Users\Daiana\OneDrive\College\Programming Concepts I\inClass4\inClass4\obj\Debug\inClass4.pdb
